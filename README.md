@@ -24,7 +24,7 @@ make
 
 Quick deploy
 ```
-forge script script/DeployFundMe.s.sol
+forge script script/DeployRaffle.s.sol
 ```
 
 Deploy on anvil chain (2 terminal windows needed)
